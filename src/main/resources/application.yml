@@ -1,0 +1,20 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: poc-group-search
+      cluster-nodes: localhost:9300
+      repositories:
+        enabled: true
+org:
+  springframework:
+    data:
+      elasticsearch:
+        client:
+          WIRE:
+            level: trace
+
+server:
+  port: 9090
+
+
+
