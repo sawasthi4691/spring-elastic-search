@@ -1,6 +1,7 @@
 # spring-elastic-search
 spring-elastic-group-search
 
+Go to master branch to checkout the code.
 
 Download elastic search 7.8.0 zip folder from officical site of elastic search.
 
